@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">My Call Logs</string>
+    <string name="title_activity_main">My Call Logs</string>
+    <string name="package_name">com.mycalllogs.app</string>
+    <string name="custom_url_scheme">com.mycalllogs.app</string>
+</resources>
