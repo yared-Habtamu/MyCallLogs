@@ -6,6 +6,10 @@ the device call log and aggregates total talk time per contact.
 All processing happens on-device. Nothing is uploaded anywhere — the only network
 permission is unused boilerplate from the Capacitor template.
 
+## Download
+
+Get the latest signed APK from the [Releases page](https://github.com/yared-Habtamu/MyCallLogs/releases) — download `MyCallLogs-v1.0.0.apk` to your phone and install it.
+
 ## How it works
 
 - `android/app/src/main/java/com/mycalllogs/app/CallLogPlugin.java` — custom
